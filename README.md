@@ -24,7 +24,7 @@
   
 #### Hardwares I have experiences with
 <img align="left" alt="Arduino" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />  
-<img align="left" alt="EV3" height="30px" style="padding-right:10px;" src="https://www.brickfanatics.com/wp-content/uploads/2022/12/LEGO-MINDSTORMS-Logo.png" />  
+<img align="left" alt="EV3" height="40px" style="padding-right:10px;" src="https://www.brickfanatics.com/wp-content/uploads/2022/12/LEGO-MINDSTORMS-Logo.png" />  
 <br /><br />
  
 ---
