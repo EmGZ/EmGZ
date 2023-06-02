@@ -1,6 +1,8 @@
 # Hi there 👋 I'm MJ!
 <li>currently taking BS in Computer Science Majoring in Software Technology in De La Salle University Manila</li>
-<li>interested in learning how to develop autonomous systems
+<li>interested in learning how to develop autonomous systems to address social
+implications hindering Sustainable Development
+Goals. </li>
 
 ---
 ### These are the current languages I've learned throughout my entire programming career!
