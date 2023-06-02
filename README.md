@@ -22,7 +22,7 @@
 
 ---
 
-###📫 How to reach me:
+####📫 How to reach me:
 <li>Email: mary_joselle_cabungcal@dlsu.edu.ph |  cabungcal.mj17@gmail.com</li>
 <li>Facebook: https://www.facebook.com/MJ.Cutieee/</li>
 <li>Instagram: https://www.facebook.com/MJ.Cutieee/</li>
