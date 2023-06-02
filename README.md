@@ -16,7 +16,16 @@
 
 #### Other Languages I know
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />  
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />  
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
 <br />
+
+---
+
+###📫 How to reach me:
+<li>Email: mary_joselle_cabungcal@dlsu.edu.ph |  cabungcal.mj17@gmail.com</li>
+<li>Facebook: https://www.facebook.com/MJ.Cutieee/</li>
+<li>Instagram: https://www.facebook.com/MJ.Cutieee/</li>
 
 <!--
 **EmGZ/EmGZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
