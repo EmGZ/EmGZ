@@ -31,7 +31,7 @@
   
 <img align="left" alt="Arduino" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />  Check out some of my arduino projects!
 <br />
-<li>Robotics PT 2021: https://www.tinkercad.com/things/d87SbXSRzXj</li>
+<li>Robotics PT 2021 - Social Distancing Device Prototype: https://www.tinkercad.com/things/d87SbXSRzXj</li>
 <li>Mini Stop Light w/ Buttons: https://www.tinkercad.com/things/aawWi3LNGMH</li>
 <li>Working w/ LEDs and Buttons: https://www.tinkercad.com/things/jK8eLbhWH7t</li>
 <li>Working w/ Delays: https://www.tinkercad.com/things/byWUmqnSxyt</li>
