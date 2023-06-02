@@ -1,5 +1,6 @@
 # Hi there 👋 I'm MJ!
 <li>currently taking BS in Computer Science Majoring in Software Technology in De La Salle University Manila</li>
+<li>interested in learning how to develop autonomous systems
 
 ---
 ### This are the current languages I've learned throughout my entire programming career!
@@ -19,7 +20,11 @@
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />  
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
 <br />
-
+  
+#### Hardwares I have experiences with
+<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />  
+<img align="left" alt="Arduino" height="30px" style="padding-right:10px;" src="https://seeklogo.com/images/L/lego-mindstorms-logo-BF5EEA24F7-seeklogo.com.png" />  
+ 
 ---
 
 ### 📫 How to reach me:
