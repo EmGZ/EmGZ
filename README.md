@@ -3,7 +3,7 @@
 <li>interested in learning how to develop autonomous systems
 
 ---
-### This are the current languages I've learned throughout my entire programming career!
+### These are the current languages I've learned throughout my entire programming career!
 #### Main Programming Languages
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
