@@ -25,7 +25,7 @@
 ####📫 How to reach me:
 <li>Email: mary_joselle_cabungcal@dlsu.edu.ph |  cabungcal.mj17@gmail.com</li>
 <li>Facebook: https://www.facebook.com/MJ.Cutieee/</li>
-<li>Instagram: https://www.instagram.com/mjcbngcl17</li>
+<li>Instagram: https://www.instagram.com/mjcbngcl17_</li>
 
 <!--
 **EmGZ/EmGZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
