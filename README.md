@@ -22,9 +22,9 @@
 <br />
   
 #### Hardwares I have experiences with
-<img align="left" alt="Arduino" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />  
+<img align="left" alt="Arduino" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />  
 <img align="left" alt="EV3" height="30px" style="padding-right:10px;" src="https://seeklogo.com/images/L/lego-mindstorms-logo-BF5EEA24F7-seeklogo.com.png" />  
-<br />
+<br /><br />
  
 ---
 
